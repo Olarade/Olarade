@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi 👋! My name is Jegede Ademola and I'm a Data Analyst.
 
-<!--
-**Olarade/Olarade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Objective
 
-Here are some ideas to get you started:
+As a Data Analyst, I help transform raw and complex data into clear, actionable insights that support better business decisions. I use tools such as Excel, Power BI, and SQL to identify trends, monitor performance, and create data solutions that drive growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 About Me
+
+I am Jegede Ademola, a data analyst passionate about solving business problems through data. I specialize in collecting, cleaning, analyzing, and visualizing data to support data-driven decisions that promote growth and operational excellence.
+
+🛠️ Data Analytics Tools I Use
+
+- Microsoft Excel
+- Power BI
+- SSMS
+- Power Query
+- DAX
+
+ 📂 My Projects by Tools
+
+Here are my projects organized by the tools I use. 
+Click on any category to explore my work.
+
+---
+
+🟢 Excel Projects
+- [View All Excel Projects](your-link)
+
+🔵 Power BI Projects
+- [View All Power BI Projects](your-link)
+
+🟣 SQL Projects
+- [View All SQL Projects](your-link)
