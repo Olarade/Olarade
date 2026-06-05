@@ -1,4 +1,5 @@
-Hi 👋! My name is Jegede Ademola and I'm a Data Analyst.
+**Hi 👋! My name is Jegede Ademola and I'm a Data Analyst.
+**
 
 🎯 Objective
 
